@@ -11,5 +11,5 @@ dependencies:
   - pyreadstat
   - seaborn
   - tweepy
-  -nltk
-  -collections
+  - nltk
+  - collections
