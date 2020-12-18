@@ -12,4 +12,4 @@ dependencies:
   - seaborn
   - tweepy
   - nltk
-  - collections
+  - counter
